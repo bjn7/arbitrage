@@ -8,7 +8,7 @@ In simple terms, it’s a way of making a **risk-free investment**, and this pro
 
 1. Go to [the-odds-api.com](https://the-odds-api.com/#get-access) and click on the **Free Plan**.
 2. You’ll receive your API key via email.
-3. Visit the page [https://v.github.io/arbitrage/](https://bjn7.github.io/arbitrage/).
+3. Visit the page [https://bjn.github.io/arbitrage/](https://bjn7.github.io/arbitrage/).
 4. Paste your API key.
 5. Select a sport.
 6. The app will display the potential profit based on your stake and the market differences.
